@@ -1,4 +1,4 @@
-"use strict";
+
 
 var _exception = require("../src/exception.js");
 test("exception", () => {

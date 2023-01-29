@@ -1,4 +1,4 @@
-"use strict";
+
 
 var _sum = require("../src/sum.js");
 test("test sum function 1", () => {

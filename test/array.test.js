@@ -1,4 +1,4 @@
-"use strict";
+
 
 test("array simple", () => {
   const names = ["eki", "indradi", "xxx"];

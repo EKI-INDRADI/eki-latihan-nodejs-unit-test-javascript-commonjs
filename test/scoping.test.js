@@ -1,4 +1,4 @@
-"use strict";
+
 
 beforeAll(() => console.info("Before All Outer"));
 afterAll(() => console.info("After All Outer"));

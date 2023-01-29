@@ -1,4 +1,4 @@
-"use strict";
+
 
 var _async = require("../src/async.js");
 test("test async function", async () => {

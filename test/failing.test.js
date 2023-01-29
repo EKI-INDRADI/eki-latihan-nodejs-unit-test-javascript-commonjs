@@ -1,4 +1,4 @@
-"use strict";
+
 
 var _sayHello = require("../src/sayHello.js");
 test("sayHello success", () => {

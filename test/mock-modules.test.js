@@ -1,4 +1,4 @@
-"use strict";
+
 
 var _productService = require("../src/product-service.js");
 var _database = require("../src/database.js");

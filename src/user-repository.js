@@ -1,9 +1,5 @@
-"use strict";
 
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.UserRepository = void 0;
+
 class UserRepository {
   save(user) {
     throw new Error("Not implemented");

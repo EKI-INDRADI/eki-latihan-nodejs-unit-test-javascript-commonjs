@@ -1,9 +1,6 @@
-"use strict";
 
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.sayHelloAsync = exports.getBalance = void 0;
+
+
 const sayHelloAsync = name => {
   return new Promise((resolve, reject) => {
     setTimeout(() => {

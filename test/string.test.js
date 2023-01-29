@@ -1,4 +1,4 @@
-"use strict";
+
 
 test("string", () => {
   const name = "Eki Indradi";

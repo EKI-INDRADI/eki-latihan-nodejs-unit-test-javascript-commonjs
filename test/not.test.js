@@ -1,4 +1,4 @@
-"use strict";
+
 
 test("string.not", () => {
     const name = "Eki Indradi";

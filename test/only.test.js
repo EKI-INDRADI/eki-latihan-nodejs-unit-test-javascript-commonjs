@@ -1,4 +1,4 @@
-"use strict";
+
 
 test("test 1", () => console.info("test 1"));
 test("test 2", () => console.info("test 2"));

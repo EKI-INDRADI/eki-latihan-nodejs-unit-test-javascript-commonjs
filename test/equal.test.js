@@ -1,4 +1,4 @@
-"use strict";
+
 
 test("test toBe", () => {
   const name = "Eki";

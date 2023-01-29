@@ -1,9 +1,7 @@
-"use strict";
 
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.sumAll = exports.sum = exports.calculateAndReturn = exports.calculate = void 0;
+
+
+
 const sum = (first, second) => {
   return first + second;
 };

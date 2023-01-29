@@ -1,4 +1,4 @@
-"use strict";
+
 
 test("numbers", () => {
   const value = 2 + 2;

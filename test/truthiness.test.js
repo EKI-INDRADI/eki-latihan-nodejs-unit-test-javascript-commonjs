@@ -1,4 +1,4 @@
-"use strict";
+
 
 test("truthiness", () => {
     let value = null;
