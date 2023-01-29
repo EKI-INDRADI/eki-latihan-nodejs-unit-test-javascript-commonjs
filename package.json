@@ -1,0 +1,44 @@
+{
+  "name": "eki-latihan-nodejs-unit-test-javascript-commonjs",
+  "version": "1.0.0",
+  "description": "EKI INDRADI JAVASCRIPT UNIT TEST COMMON JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "jest": {
+    "maxConcurrency": 2,
+    "verbose": true,
+    "collectCoverage": true,
+    "coverageThreshold": {
+      "global": {
+        "branches": 100,
+        "functions": 100,
+        "lines": 100,
+        "statements": 100
+      }
+    },
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx}",
+      "!vendor/**/*.{js,jsx}"
+    ]
+  },
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-javascript-commonjs.git"
+  },
+  "keywords": [
+    "EKI",
+    "INDRADI"
+  ],
+  "author": "EKI INDRADI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-javascript-commonjs/issues"
+  },
+  "homepage": "https://github.com/EKI-INDRADI/eki-latihan-nodejs-unit-test-javascript-commonjs#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
