@@ -1,4 +1,4 @@
-#  JEST NODEJS UNIT TEST (Javascript Module)
+#  JEST NODEJS UNIT TEST (Javascript CommonJs)
 
 
 ```code
