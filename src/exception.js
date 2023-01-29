@@ -1,9 +1,10 @@
 
-
+class MyException extends Error {}
+exports.MyException = MyException;
 
 const callMe = name => {
   if (name === "eki") {
-    throw new Error("Ups my exceptions happens");
+    throw new MyException("Ups my exceptions happens");
   } else {
     return "OK";
   }
